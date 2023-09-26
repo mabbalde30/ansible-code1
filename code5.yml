@@ -12,3 +12,4 @@
           line: module-store = serge
           state: absent 
           #create: yes
+          #this is to test jenkins
